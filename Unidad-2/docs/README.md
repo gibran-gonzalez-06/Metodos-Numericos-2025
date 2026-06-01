@@ -6,9 +6,10 @@ Esta carpeta contiene las actividades y ejercicios desarrollados durante la Unid
 
 ## Contenido
 
-- Ejercicios resueltos en Microsoft Excel.
-- Aplicaciones del Método de Newton-Raphson.
-- Procedimientos numéricos realizados durante la unidad.
+- Ejercicios realizados en Microsoft Excel.
+- Aplicación del Método de Bisección.
+- Aplicación del Método de Newton-Raphson.
+- Procedimientos numéricos desarrollados durante la unidad.
 
 ## Objetivo
 
