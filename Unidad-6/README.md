@@ -37,7 +37,6 @@ Validación de resultados obtenidos en los ejercicios.
 
 ## Software utilizado
 
-- Microsoft Excel
 - Calculadora científica
 - Material de apoyo proporcionado por el docente
 
